@@ -15,8 +15,8 @@ To analyze sales data using Microsoft Excel and extract insights.
 - Region-wise performance
 
 ## Files
-- New microsoft Excel.xlsx
-- Dashboard screenshots
+- Vrinda_Store.xlsx
+
 
 ## Conclusion
 This project demonstrates my Excel data analysis skills.
