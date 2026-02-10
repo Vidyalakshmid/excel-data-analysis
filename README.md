@@ -14,9 +14,3 @@ To analyze sales data using Microsoft Excel and extract insights.
 - Monthly sales trends
 - Region-wise performance
 
-## Files
-- Vrinda_Store.xlsx
-
-
-## Conclusion
-This project demonstrates my Excel data analysis skills.
